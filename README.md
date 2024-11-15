@@ -3,7 +3,7 @@
 This project analyzes YouTube comment data to gain insights into user engagement and sentiment trends. YouTube is one of the most popular platforms globally, with users interacting via comments, likes, and reactions. By analyzing this data, we aim to understand audience behavior and preferences.
 
 ## Key Statistics About YouTube
-- Over 1 billion hours** of content is watched daily.
+- Over 1 billion hours of content is watched daily.
 - 2nd most visited site globally.
 - Attracts 44% of all internet users.
 - Accounts for 37% of all mobile internet traffic.
